@@ -18,7 +18,9 @@
   "readmeFilename": "Readme.md",
   "dependencies": {
     "emitter-component": "~1.1.0",
-    "to-function": "~1.2.1"
+    "to-function": "~1.2.1",
+    "ispy": "~0.1.2",
+    "deep-equal": "~0.2.1"
   },
   "scripts": {
     "test": "make test"
